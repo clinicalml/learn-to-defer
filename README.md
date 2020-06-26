@@ -11,7 +11,23 @@ we explore how to learn predictors that can either predict or choose to defer th
 downstream expert. Our approach is based on a novel
 reduction to cost sensitive learning where we give a consistent surrogate loss for cost sensitive
 learning that generalizes the cross entropy loss. The loss described in detail in the papers is referred to as L_{CE}^{\alpha}.
+This repository contains multiple jupyter notebooks
 
+
+## Requirements
+
+We include a [requirements file](requirements.txt) that covers everything required to run the notebooks from a new environment.
+
+The major dependencies are the following:
+```shell
+jupyterlab
+torch
+torchvision
+torchtext
+scipy
+matplotlib
+scikit-learn
+```
 
 
 ## Citation
