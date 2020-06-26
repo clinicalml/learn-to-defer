@@ -5,8 +5,8 @@ This repository includes the code  and experiments  for our [ICML 2020 paper Con
 
 Quick Links:
 * [CIFAR](cifar/README.md)
-* [Hate speech detection] (language/README.md)
-* [Synthetic Data] (synthetic/README.md)
+* [Hate speech detection](language/README.md)
+* [Synthetic Data](synthetic/README.md)
 
 This repository is currently being expanded.
 

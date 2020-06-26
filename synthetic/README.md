@@ -1,5 +1,4 @@
-## Synthetic Data
-experiments
+## Synthetic Data experiments
 
 We include a notebook to reproduce Table 1, simply follow the notebook to obtain the metrics for each method
 
