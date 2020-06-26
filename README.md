@@ -2,6 +2,12 @@
 This repository includes the code  and experiments  for our [ICML 2020 paper Consistent Estimators for Learning to Defer to an Expert
  ](https://arxiv.org/abs/2006.01862) by Hussein Mozannar and David Sontag.
 
+
+Quick Links:
+* [CIFAR](cifar/README.md)
+* [Hate speech detection] (language/README.md)
+* [Synthetic Data] (synthetic/README.md)
+
 This repository is currently being expanded.
 
 ## Learning to defer to an Expert
