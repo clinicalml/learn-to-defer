@@ -7,6 +7,7 @@ Quick Links:
 * [CIFAR](cifar/README.md)
 * [Hate speech detection](language/README.md)
 * [Synthetic Data](synthetic/README.md)
+* [CheXpert](cheXpert/README.md)
 
 This repository is currently being expanded.
 
