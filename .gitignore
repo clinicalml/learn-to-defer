@@ -4,7 +4,7 @@
 .idea
 data
 cifar\.ipynb_checkpoints
-cheXpert
+chexpert\.ipynb_checkpoints
 .ipynb_checkpoints
 language\.ipynb_checkpoints
 language\.vector_cache
