@@ -40,10 +40,14 @@ scikit-learn
 ## Citation
 
 ```
-@article{mozannar2020consistent,
-  title={Consistent Estimators for Learning to Defer to an Expert},
-  author={Mozannar, Hussein and Sontag, David},
-  journal={arXiv preprint arXiv:2006.01862},
-  year={2020}
+@inproceedings{mozannar2020consistent,
+    title={Consistent Estimators for Learning to Defer to an Expert},
+    author={Hussein Mozannar and David Sontag},
+    booktitle = {Proceedings of the Thirty-Seventh International Conference on Machine Learning (ICML)},
+    year={2020},
+    eprint={2006.01862},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},
+    url_Paper = {https://arxiv.org/pdf/2006.01862.pdf}
 }
 ```
