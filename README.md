@@ -1,6 +1,11 @@
 # Consistent Estimators for Learning to Defer to an Expert
+
+Please see our updated code in this repo instead [https://github.com/clinicalml/human_ai_deferral](https://github.com/clinicalml/human_ai_deferral)
+
 This repository includes the code  and experiments  for our [ICML 2020 paper Consistent Estimators for Learning to Defer to an Expert
  ](https://arxiv.org/abs/2006.01862) by Hussein Mozannar and David Sontag.
+
+
 
 
 Quick Links:
